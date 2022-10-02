@@ -29,5 +29,4 @@ Calioce - Setheum's native decentralized payments protocol and platform powers P
 - E-Commerce Plugins & Components
 - Third-Party Integration
 - Crypto-Fiat Integration
-- ISO20022 Enterprise Remittance Protocol & Framework
 - Extended Payments SDKs and APIs
