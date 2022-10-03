@@ -32,3 +32,6 @@ Calioce - Setheum's native decentralized payments protocol and platform powers P
 - Third-Party Integration
 - Crypto-Fiat Integration
 - Extended Payments SDKs and APIs
+
+## LICENSE
+The primary license for Calioce is the GPL3, see [LICENSE](https://github.com/Setheum-Labs/Calioce/blob/main/LICENSE.md).
