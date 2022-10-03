@@ -1,3 +1,5 @@
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 # Calioce Payments - Setheum's Native Payments Protocol
 
 Powering Scalable DeFi Payment Solutions.
